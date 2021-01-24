@@ -1,3 +1,3 @@
-# sfg-jokes-app
+# SFG Jokes App
 
-### Demo app for displaying random jokes
+Demo Spring Boot app to display random Chunk Norris jokes on the index.html.
